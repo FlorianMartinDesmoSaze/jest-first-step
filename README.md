@@ -1,1 +1,1 @@
-# fist steps with jest
+# First steps with jest
