@@ -1,1 +1,1 @@
-# fist steps with vite and jest
+# fist steps with jest
